@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
+## Notas
+Este proyecto es una App que vizualiza marcadores, crea marcadores, elimina marcadores y actualizaposicion de los marcadores, todo trabajando con un servidor de sockets con la libreria socket.io en el server y en el cliente angular el ngx-socket-io.
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
